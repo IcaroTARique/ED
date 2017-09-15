@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494703092 source:c:\users\icaro\desktop\prog\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1494619899 c:\users\icaro\desktop\prog\fila\fila.h
+
+1494780967 source:c:\users\icaro\desktop\prog\fila\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"fila.h"
+

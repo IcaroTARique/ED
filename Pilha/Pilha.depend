@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494565463 source:c:\users\icaro\desktop\prog\pilha\main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"pilha.h"
+
+1494480570 c:\users\icaro\desktop\prog\pilha\pilha.h
+
+1494565380 source:c:\users\icaro\desktop\prog\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

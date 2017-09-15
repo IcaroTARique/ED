@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1494221883 source:c:\users\icaro\desktop\prog\listaindexada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1494218786 c:\users\icaro\desktop\prog\listaindexada\lista.h
+
+1494222391 source:c:\users\icaro\desktop\prog\listaindexada\main.c
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Lista.h"
+

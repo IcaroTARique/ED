@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1494461092 source:c:\users\icaro\desktop\prog\listaindexadacombuscabinaria\main.c
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Lista.h"
+
+1494417399 c:\users\icaro\desktop\prog\listaindexadacombuscabinaria\lista.h
+
+1494420057 source:c:\users\icaro\desktop\prog\listaindexadacombuscabinaria\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
